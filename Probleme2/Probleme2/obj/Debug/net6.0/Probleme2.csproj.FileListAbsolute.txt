@@ -1,0 +1,15 @@
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\bin\Debug\net6.0\Probleme2.exe
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\bin\Debug\net6.0\Probleme2.deps.json
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\bin\Debug\net6.0\Probleme2.runtimeconfig.json
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\bin\Debug\net6.0\Probleme2.dll
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\bin\Debug\net6.0\Probleme2.pdb
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.csproj.AssemblyReference.cache
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.AssemblyInfoInputs.cache
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.AssemblyInfo.cs
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.csproj.CoreCompileInputs.cache
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.dll
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\refint\Probleme2.dll
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.pdb
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\Probleme2.genruntimeconfig.cache
+C:\Users\rotun\Documents\lab2\Prob2\Probleme2\Probleme2\obj\Debug\net6.0\ref\Probleme2.dll
